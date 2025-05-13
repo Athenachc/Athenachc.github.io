@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Athena Hiu Ching CHEUNG
+    <!-- - name: Date of Birth
+      value: 14th March 1894 -->
     - name: Languages
-      value: English, German
+      value: English, Cantonese, Mandarin
 
 - title: Education
   type: time_table
