@@ -54,8 +54,8 @@
       "studyType": "MPhil",
       "startDate": "2022-08-29",
       "endDate": "2025-01-22",
-      "score": "10",
-      "courses": ["a"]
+      "score": "",
+      "courses": [""]
     },
 
     {
@@ -66,8 +66,8 @@
       "studyType": "Bachelor",
       "startDate": "2018-09-01",
       "endDate": "2022-06-22",
-      "score": "10",
-      "courses": ["b"]
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
