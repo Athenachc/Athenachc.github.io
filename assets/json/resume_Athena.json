@@ -24,13 +24,40 @@
   },
   "work": [
     {
-      "name": "The Hong Kong Polytechnic University",
+      "name": "The Hong Kong Polytechnic University (AIRO Lab)",
       "position": "Research Administrative Assistant (Full-time)",
       "url": "",
       "startDate": "2025-01",
-      "endDate": "Now",
+      "endDate": "",
       "summary": "",
       "highlights": ["Associating with the project - Research Centre for Low Altitude Economy (4-CE0Q)", "Assisting with a book (New Space: From Low Earth Orbit to the Moon and Beyond) that is to be published, addressing tasks such as formatting the citations and reference lists, modifying the diagrams"]
+    },
+    {
+      "name": "Pigeon City | Omnilearning ECA Center | Intelligent Software Co Ltd",
+      "STEM Tutor (Part-time)",
+      "url": "",
+      "startDate": "2024-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Teaching STEM courses: UAV swarm, LEGO EV3"]
+    },
+    {
+      "name": " The Hong Kong Polytechnic University (AIRO Lab)",
+      "position": "Project Technical Assistant (Part-time)",
+      "url": "",
+      "startDate": "2023-05",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": ["Had associated with the research project “Research Centre for Unmanned Autonomous Systems” (P0046487)", "Provided technical support for 3D printing", "Provided technical support for mechatronics design"]
+    },
+    {
+      "name": " Hong Kong Center for Construction Robotics",
+      "position": "Research Assistant (Part-time)",
+      "url": "",
+      "startDate": "2023-01",
+      "endDate": "2023-06",
+      "summary": "",
+      "highlights": ["Provided technical support for 3D printing", "Designed the mechanical structure of products and drawing the 3D CAD drawings"]
     }
   ],
   "volunteer": [
