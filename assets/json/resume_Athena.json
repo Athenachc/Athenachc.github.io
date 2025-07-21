@@ -47,6 +47,18 @@
   ],
   "education": [
     {
+      "institution": "Arizona State University",
+      "location": "Phoenix, AZ, U.S.",
+      "url": "https://msn.engineering.asu.edu/degrees/graduate/robotics-and-autonomous-systems-mechatronics-and-automation-phd/",
+      "area": "Robot Manipulation, Surgical Robotics, Soft Robotics",
+      "studyType": "PhD",
+      "startDate": "2026-01-12",
+      "endDate": "",
+      "score": "",
+      "courses": ""
+    },
+    
+    {
       "institution": "The Hong Kong Polytechnic University",
       "location": "Hong Kong",
       "url": "https://www.polyu.edu.hk",
@@ -73,10 +85,45 @@
   "awards": [
     {
       "title": "HKSAR Government Scholarship Fund - Endeavour Merit Award",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "date": "2018/19 - 2023/24",
+      "awarder": "HKSAR Government",
       "url": "",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": ""
+    },
+    {
+      "title": "The Hong Kong Jockey Club Scholarships – Undergraduate Scholarship",
+      "date": "2019/20 - 2021/22",
+      "awarder": "The Hong Kong Jockey Club",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "BEA Inspiring Student Scholarship",
+      "date": "2019/20",
+      "awarder": "Bank of East Asia",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Engineering Design Award - The Robocon 2019 Hong Kong Contest",
+      "date": "2019",
+      "awarder": "Hong Kong Science and Technology Parks Corporation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "HKSAR Government Scholarship Fund - Talent Development Scholarship",
+      "date": "2018/19 -2019/20",
+      "awarder": "HKSAR Government",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Hong Kong Top 10 Outstanding Teens Award - Hong Kong Outstanding Teens Election",
+      "date": "2016",
+      "awarder": "Hong Kong Playground Association and The Outstanding Young Persons' Association",
+      "url": "http://paper.wenweipo.com/2016/06/29/ED1606290003.htm, http://paper.wenweipo.com/2016/06/29/ED1606290001.htm",
+      "summary": ""
     }
   ],
   
