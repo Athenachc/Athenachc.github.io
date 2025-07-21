@@ -48,7 +48,7 @@
       "startDate": "2023-05",
       "endDate": "2024-08",
       "summary": "",
-      "highlights": ["Had associated with the research project “Research Centre for Unmanned Autonomous Systems” (P0046487)", "Provided technical support for 3D printing", "Provided technical support for mechatronics design"]
+      "highlights": ["Had associated with the research project 'Research Centre for Unmanned Autonomous Systems' (P0046487)", "Provided technical support for 3D printing", "Provided technical support for mechatronics design"]
     },
     {
       "name": "Hong Kong Center for Construction Robotics",
@@ -58,6 +58,51 @@
       "endDate": "2023-06",
       "summary": "",
       "highlights": ["Provided technical support for 3D printing", "Designed the mechanical structure of products and drawing the 3D CAD drawings"]
+    },
+     {
+      "name": "The Hong Kong Polytechnic University (AIRO Lab)",
+      "position": "Project Assistant (Part-time)",
+      "url": "",
+      "startDate": "2022-09",
+      "endDate": "2023-05",
+      "summary": "",
+      "highlights": ["Had associated with the research project “Research Centre for Unmanned Autonomous Systems” (P0046487)", "Provided technical support for composite manufacturing (Carbon fiber airframes)", "Provided technical support for 3D printing"]
+    },
+    {
+      "name": "Hong Kong Center for Construction Robotics",
+      "position": "Student Helper (Full-time)",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": ["Joined one of the existing start-up teams, which is focusing on construction robots", "Designed the mechanical structure of products and drew the 3D CAD drawings"]
+    },
+    {
+      "name": "The Hong Kong Polytechnic University (AIRO Lab)",
+      "position": "Student Assistant (Part-time)",
+      "url": "",
+      "startDate": "2021-08",
+      "endDate": "2022-05",
+      "summary": "",
+      "highlights": ["Had associated with the research project 'Trial: Development of Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV) for Air Quality Monitoring in Greater Bay Area' (K-ZPJU)", "Provided technical support for 3D printing", "Designed the mechanical structure of a movable landing platform for UAVs and controlled its movement with Arduino programming"]
+    },
+    {
+      "name": "The Hong Kong Polytechnic University (Biomimetic Robotics Laboratory)",
+      "position": "Student Assistant (Part-time and Full-time)",
+      "url": "",
+      "startDate": "2020-12",
+      "endDate": "2021-07",
+      "summary": "",
+      "highlights": ["Automated pick-and-place task with object recognition using deep learning", "Applied vision-based control for a robot arm (UR5) and conducted system calibration to ensure precise control", "Applied vision-based control for a robot arm (UR5) and conducted system calibration to ensure precise control"]
+    },
+    {
+      "name": "Carmel Divine Grace Foundation Secondary School",
+      "position": "Robotics Team Coach (Part-time)",
+      "url": "",
+      "startDate": "2018-09",
+      "endDate": "2020-06",
+      "summary": "",
+      "highlights": ["Led students to win in the International Robotic Olympiad 2019", "Taught students how to use CAD (Computer Aided Drawing) (2D: CorelDRAW and 3D: SolidWorks)", "Taught students how to build robots with DC gear motors, servo motors, and micro-controllers"]
     }
   ],
   "volunteer": [
