@@ -107,14 +107,78 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Hong Kong Robotics Club",
+      "location": "Hong Kong",
+      "position": "Judge and Organizer",
+      "url": "https://robotorghk.weebly.com/",
+      "startDate": "2018-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Demonstrating judgment in the Hong Kong Robotic Olympiad and International Robotic Olympiad", "Tutoring in InnoTech Workshops in InnoCarnival (since 2013)", "Contributing to the preparation and event follow-ups"]
+    },
+    
+    {
+      "organization": "The Warehouse Teenage Club",
+      "location": "Hong Kong",
+      "position": "Wooden Boat Crafting Skills - Intern",
+      "url": "https://www.warehouse.org.hk/wooden_boat_building_technique/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Intangible Cultural Heritage Documentation and Promotion Project", "Engaged in learning and participating in the process of wooden boat crafting to ensure compliance with relevant safety standards and requirements", "Involved in documenting the craft of wooden boat making, meticulously recording the production process and various details"]
+    },
+
+    {
+      "organization": "Outstanding Teens Association",
+      "location": "Hong Kong",
+      "position": "Internal Vice President",
+      "url": "https://www.instagram.com/ota_hk/",
+      "startDate": "2020-10",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": ["Contacted and promoting events to OTA members", "Handled Financial management", "Coordinated internal administration and organised external voluntary services (e.g., University Simulations in 2021 (https://skmdonaldshek.wixsite.com/hkotausims2021) and 2022 (https://skmdonaldshek.wixsite.com/hkotausims2022)"]
+    },
+    {
+      "organization": "HKPolyU Unmanned Aerial Vehicles Team",
+      "location": "Hong Kong",
+      "position": "Team member",
+      "url": "https://youtu.be/ELSqvWizsCc",
+      "startDate": "2019-09",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": ["Had been prepared for UAV Challenge – Medical Rescue: 1) A mechanical structure was designed to release a ground vehicle from a fixed-wing VTOL; 2) Developed a geofence system design for the fixed-wing VTOL", "Built a fixed-wing VTOL (vertical take-off and landing) unmanned aerial vehicle with postgraduate teammates (Mini Talon: https://youtu.be/ELSqvWizsCc, start from 00:57-01:50)", "]
+    },
+
+    {
+      "organization": "Outstanding Teens Association",
+      "location": "Hong Kong",
+      "position": "Vice President (Executive)",
+      "url": "https://www.instagram.com/ota_hk/",
+      "startDate": "2018-08",
+      "endDate": "2020-09",
+      "summary": "",
+      "highlights": ["Led the team of the Academic and Development Committee to plan and organize a Peer to Peer Programme (P2P X STEM) for all students in primary schools and secondary schools in Hong Kong", "Contacting with other student leaders and teachers to promote P2P X STEM", "Sharing personal experience on STEM (robotics) in P2P X STEM"]
+    },
+
+     {
+      "organization": "HKPolyU FENG Robotics Club",
+      "location": "Hong Kong",
+      "position": " Leader of the Team, Crimson 赤影",
+      "url": "https://www.youtube.com/watch?v=Arqek4qGNMY",
+      "startDate": "2018-08",
+      "endDate": "2020-09",
+      "summary": "",
+      "highlights": ["Chief designer of Manual Robot 1 (A multi-tasking robot with several types of actuators)", "Designer of the rack of compressed air tank for pneumatic cylinders", "Won Best Engineering Award in the Robocon 2019 Hong Kong Contest"]
+    },
+    {
+      "organization": "Hong Kong Young Ambassador Scheme",
+      "location": "Hong Kong",
+      "position": "Hong Kong Young Ambassador",
+      "url": "https://www.instagram.com/ota_hk/",
+      "startDate": "2016-10",
+      "endDate": "2021-05",
+      "summary": "",
+      "highlights": ["Contributing voluntary service (local service to promote Hong Kong tourism)", "Helped in Tourism Promotional Events (e.g. 2019 Cathay Pacific International Chinese New Year Night Parade, Hong Kong Well-wishing Festival, Restpiration - The Feast, etc."]
     }
   ],
   "education": [
