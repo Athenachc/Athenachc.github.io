@@ -22,6 +22,32 @@
       }
     ]
   },
+  "education": [
+    
+    {
+      "institution": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "url": "https://www.polyu.edu.hk",
+      "area": "UAV Manipulation, Soft Robotics",
+      "studyType": "MPhil",
+      "startDate": "2022-08-29",
+      "endDate": "2025-01-22",
+      "score": "",
+      "courses": ""
+    },
+
+    {
+      "institution": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong",
+      "url": "https://www.polyu.edu.hk/sao/student-resources-and-support-section/special-needs-support/students-sharing_old/athena_a-big-fan-of-robotics/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-22",
+      "score": "",
+      "courses": ""
+    }
+  ],
   "work": [
     {
       "name": "The Hong Kong Polytechnic University (AIRO Lab)",
@@ -105,6 +131,50 @@
       "highlights": ["Led students to win in the International Robotic Olympiad 2019", "Taught students how to use CAD (Computer Aided Drawing) (2D: CorelDRAW and 3D: SolidWorks)", "Taught students how to build robots with DC gear motors, servo motors, and micro-controllers"]
     }
   ],
+  "awards": [
+    {
+      "title": "HKSAR Government Scholarship Fund - Endeavour Merit Award",
+      "date": "2018/19 - 2023/24",
+      "awarder": "HKSAR Government",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "The Hong Kong Jockey Club Scholarships – Undergraduate Scholarship",
+      "date": "2019/20 - 2021/22",
+      "awarder": "The Hong Kong Jockey Club",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "BEA Inspiring Student Scholarship",
+      "date": "2019/20",
+      "awarder": "Bank of East Asia",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Engineering Design Award - The Robocon 2019 Hong Kong Contest",
+      "date": "2019",
+      "awarder": "Hong Kong Science and Technology Parks Corporation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "HKSAR Government Scholarship Fund - Talent Development Scholarship",
+      "date": "2018/19 -2019/20",
+      "awarder": "HKSAR Government",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Hong Kong Top 10 Outstanding Teens Award - Hong Kong Outstanding Teens Election",
+      "date": "2016",
+      "awarder": "Hong Kong Playground Association and The Outstanding Young Persons' Association",
+      "url": "http://paper.wenweipo.com/2016/06/29/ED1606290001.htm",
+      "summary": ""
+    }
+  ],
   "volunteer": [
     {
       "organization": "Hong Kong Robotics Club",
@@ -181,76 +251,8 @@
       "highlights": ["Contributing voluntary service (local service to promote Hong Kong tourism)", "Helped in Tourism Promotional Events (e.g. 2019 Cathay Pacific International Chinese New Year Night Parade, Hong Kong Well-wishing Festival, Restpiration - The Feast, etc."]
     }
   ],
-  "education": [
-    
-    {
-      "institution": "The Hong Kong Polytechnic University",
-      "location": "Hong Kong",
-      "url": "https://www.polyu.edu.hk",
-      "area": "UAV Manipulation, Soft Robotics",
-      "studyType": "MPhil",
-      "startDate": "2022-08-29",
-      "endDate": "2025-01-22",
-      "score": "",
-      "courses": ""
-    },
-
-    {
-      "institution": "The Hong Kong Polytechnic University",
-      "location": "Hong Kong",
-      "url": "https://www.polyu.edu.hk/sao/student-resources-and-support-section/special-needs-support/students-sharing_old/athena_a-big-fan-of-robotics/",
-      "area": "Mechanical Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-06-22",
-      "score": "",
-      "courses": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "HKSAR Government Scholarship Fund - Endeavour Merit Award",
-      "date": "2018/19 - 2023/24",
-      "awarder": "HKSAR Government",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "The Hong Kong Jockey Club Scholarships – Undergraduate Scholarship",
-      "date": "2019/20 - 2021/22",
-      "awarder": "The Hong Kong Jockey Club",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "BEA Inspiring Student Scholarship",
-      "date": "2019/20",
-      "awarder": "Bank of East Asia",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Best Engineering Design Award - The Robocon 2019 Hong Kong Contest",
-      "date": "2019",
-      "awarder": "Hong Kong Science and Technology Parks Corporation",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "HKSAR Government Scholarship Fund - Talent Development Scholarship",
-      "date": "2018/19 -2019/20",
-      "awarder": "HKSAR Government",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Hong Kong Top 10 Outstanding Teens Award - Hong Kong Outstanding Teens Election",
-      "date": "2016",
-      "awarder": "Hong Kong Playground Association and The Outstanding Young Persons' Association",
-      "url": "http://paper.wenweipo.com/2016/06/29/ED1606290001.htm",
-      "summary": ""
-    }
-  ],
+  
+  
   
   "skills": [
     {
