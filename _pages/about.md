@@ -29,7 +29,7 @@ latest_posts:
 
 My passion lies in robotics, and I am dedicated to exploring and researching new technologies in this field. 
 
-I am an incoming PhD student in Spring 2026 at Arizona State University, supervised by Dr Shan LIN in Medical Automation, Robotics & General Intelligence Lab (MARGIN Lab).
+I am an incoming PhD student in Spring 2026 at Arizona State University, supervised by Dr Shan LIN in <a href="https://marginlab.github.io/">Medical Automation, Robotics & General Intelligence Lab (MARGIN Lab)</a>.
 
 Currently, I am focusing on unmanned aerial systems and soft robotics at <a href="https://www.polyu.edu.hk/en/">The Hong Kong Polytechnic University as a research administrative assistant</a>. I am affiliated with the <a href="https://www.polyu.edu.hk/researchgrp/cywen/index.php/en/index.html">High-speed Thermo-fluid and MAV/UAV Laboratory</a>
           (<a href="https://gh034.github.io">AIRo Lab</a>) at the 
