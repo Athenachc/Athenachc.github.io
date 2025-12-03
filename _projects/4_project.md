@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Mini Talon
+description: Coming soon.
 img:
 importance: 3
 category: VTOL
