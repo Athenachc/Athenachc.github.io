@@ -4,7 +4,7 @@ title: Grasping with UR5
 description: Coming soon.
 img: assets/img/1.jpg
 importance: 3
-category: Grasping
+category: Robot Arm
 ---
 
 Every project has a beautiful feature showcase page.
