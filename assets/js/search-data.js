@@ -84,7 +84,7 @@ ninja.data = [{
           title: 'Collections of Land-based Robots',
           description: "Coming soon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/cdgrobo/";
+              window.location.href = "/projects/cdgrobo_land/";
             },},{id: "projects-collection-of-water-based-robots",
           title: 'Collection of Water-based Robots',
           description: "Coming soon.",
