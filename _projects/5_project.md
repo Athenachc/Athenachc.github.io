@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Grasping with UR5
+description: Coming soon.
 img: assets/img/1.jpg
 importance: 3
-category: UAV
+category: Grasping
 ---
 
 Every project has a beautiful feature showcase page.
