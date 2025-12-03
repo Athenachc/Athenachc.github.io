@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collections of Land-based Robots
+title: Collection of Land-based Robots
 description: Coming soon
 img: assets/img/12.jpg
 importance: 1
