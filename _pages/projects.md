@@ -5,7 +5,7 @@ permalink: /projects/
 description: My robotics projects, from my secondary school days to my current robotics research.
 nav: true
 nav_order: 3
-display_categories: [Mechanical, Mechatronics, Aerial Grasping, VTOL, Robot Arm]
+display_categories: [Pneumatics, Aerial Grasping, VTOL, Robot Arm, Mechatronics, Mechanical]
 horizontal: false
 ---
 
