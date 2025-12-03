@@ -70,8 +70,8 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-collections-of-land-based-robots",
-          title: 'Collections of Land-based Robots',
+            },},{id: "projects-collection-of-land-based-robots",
+          title: 'Collection of Land-based Robots',
           description: "Coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_land/";
