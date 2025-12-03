@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Collection of Water-based Robots
+description: Coming soon.
 img: assets/img/12.jpg
 importance: 1
 category: Mechanical 
