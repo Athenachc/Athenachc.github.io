@@ -60,12 +60,7 @@ ninja.data = [{
             },},{id: "news-i-passed-my-mphil-oral-examination-viva",
           title: 'I passed my MPhil Oral Examination (Viva)!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -90,6 +85,11 @@ ninja.data = [{
           description: "Coming soon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo/";
+            },},{id: "projects-collection-of-water-based-robots",
+          title: 'Collection of Water-based Robots',
+          description: "Coming soon.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cdgrobo_ocean/";
             },},{
         id: 'social-email',
         title: 'email',
