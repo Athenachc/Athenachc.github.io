@@ -75,6 +75,11 @@ ninja.data = [{
           description: "Coming soon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_servo/";
+            },},{id: "projects-climbing-robot",
+          title: 'Climbing Robot',
+          description: "Coming soon.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/climb_robo/";
             },},{id: "projects-mini-talon",
           title: 'Mini Talon',
           description: "Coming soon.",
