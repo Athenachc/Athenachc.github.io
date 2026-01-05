@@ -32,7 +32,7 @@ My passion lies in robotics, and I am dedicated to exploring and researching new
 I am an incoming PhD student in Spring 2026 at Arizona State University, supervised by Dr Shan LIN in <a href="https://marginlab.github.io/">Medical Automation, Robotics & General Intelligence Lab (MARGIN Lab)</a>.
 
 Currently, I am focusing on medical mechatronics and soft robotics at <a href="http://www.labren.org/mm/">Laboratory of Medical Mechatronics, CUHK</a> as a junior research assistant. I was affiliated with the <a href="https://www.polyu.edu.hk/researchgrp/cywen/index.php/en/index.html">High-speed Thermo-fluid and MAV/UAV Laboratory</a>
-          (<a href="https://gh034.github.io">AIRo Lab</a>) at the 
+          (<a href="https://gh034.github.io">AIRo Lab, HKPolyU</a>) at the 
           <a href="https://www.polyu.edu.hk/en/aae/research/research-centres-and-groups/research-centre-for-unmanned-autonomous-systems/">Research Centre for Unmanned Autonomous Systems (RCUAS)</a>, led by Prof. Chih‐yung WEN and Dr.
 Li‐ta HSU. Additionally, I was under co‐supervision by Dr Henry K. CHU, focusing on the field of soft robotics. 
 
