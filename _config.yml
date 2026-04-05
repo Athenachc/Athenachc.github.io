@@ -322,7 +322,6 @@ filtered_bibtex_keywords:
     blog,
     code,
     google_scholar_id,
-    html,
     inspirehep_id,
     pdf,
     poster,
@@ -330,7 +329,6 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
-    video,
     website,
   ]
 
