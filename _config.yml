@@ -275,7 +275,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [CHEUNG]
+  last_name: [Cheung]
   first_name: [Hiu Ching]
 
   style: apa
