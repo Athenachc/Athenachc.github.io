@@ -66,7 +66,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-our-work-palpaid-a-low-cost-minimal-fabrication-small-form-factor-pneumatic-tactile-sensor-designed-for-palpation-at-robosoft-2026-in-kanazawa-japan",
           title: 'Excited to share our work, “PalpAid”: a low-cost, minimal-fabrication, small-form-factor pneumatic tactile sensor...',
           description: "",
-          section: "News",},{id: "news-our-work-learning-based-hierarchical-tracheal-anatomy-understanding-from-sparse-surgical-demonstration-annotations-for-ultrasound-robots-is-accepted-by-the-2026-international-conference-on-cyborg-and-bionic-systems-macau-china-venue",
+          section: "News",},{id: "news-our-work-learning-based-hierarchical-tracheal-anatomy-understanding-from-sparse-surgical-demonstration-annotations-for-ultrasound-robots-has-been-accepted-by-the-2026-international-conference-on-cyborg-and-bionic-systems-macau-china-venue",
           title: 'Our work, “Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for...',
           description: "",
           section: "News",},{id: "news-our-work-bio-inspired-self-oscillating-needle-transducer-with-unified-in-keyhole-sensing-and-actuation-capability-has-been-accepted-by-the-ieee-iros-2026",
