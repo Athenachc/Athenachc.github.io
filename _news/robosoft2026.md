@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share our work, "PalpAid": a low-cost, minimal-fabrication, small-form-factor pneumatic tactile sensor designed for palpation, at RoboSoft 2026 in Kanazawa, Japan!!
+Excited to share our work, "PalpAid": a low-cost, minimal-fabrication, small-form-factor pneumatic tactile sensor designed for palpation, at RoboSoft 2026 in Kanazawa, Japan!
