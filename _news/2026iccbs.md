@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Thrilled to share our work, "(Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots)[https://athenachc.github.io/Learning-basedHierarchicalTrachealAnatomyUnderstanding/]," has been accepted by the 2026 International Conference on Cyborg and Bionic Systems (Macau, China Venue)!
+Thrilled to share our work, "[Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots](https://athenachc.github.io/Learning-basedHierarchicalTrachealAnatomyUnderstanding/)," has been accepted by the 2026 International Conference on Cyborg and Bionic Systems (Macau, China Venue)!
