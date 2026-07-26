@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my new journey at CUHK as a junior research assistant in the Laboratory of Medical Mechatronics!
+I have started my new journey at CUHK as a junior research assistant in [Ren Lab](http://www.labren.org/mm/)!
