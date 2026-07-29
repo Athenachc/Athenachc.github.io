@@ -102,7 +102,7 @@ ninja.data = [{
               window.location.href = "/projects/mini_talon/";
             },},{id: "projects-soft-aerial-vehicle",
           title: 'Soft Aerial Vehicle',
-          description: "Coming soon.",
+          description: "A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sav/";
             },},{id: "projects-grasping-with-ur5",
