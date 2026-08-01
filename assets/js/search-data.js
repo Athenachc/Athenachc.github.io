@@ -60,7 +60,7 @@ ninja.data = [{
             },},{id: "news-i-passed-my-mphil-oral-examination-viva",
           title: 'I passed my MPhil Oral Examination (Viva)!',
           description: "",
-          section: "News",},{id: "news-i-have-started-my-new-journey-at-cuhk-as-a-junior-research-assistant-in-ren-s-lab",
+          section: "News",},{id: "news-i-have-started-my-new-journey-at-cuhk-as-a-junior-research-assistant-in-ren-lab",
           title: 'I have started my new journey at CUHK as a junior research assistant...',
           description: "",
           section: "News",},{id: "news-excited-to-share-our-work-palpaid-a-low-cost-minimal-fabrication-small-form-factor-pneumatic-tactile-sensor-designed-for-palpation-at-robosoft-2026-in-kanazawa-japan",
