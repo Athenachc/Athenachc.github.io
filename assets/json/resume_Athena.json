@@ -54,7 +54,11 @@
       "startDate": "2025-09",
       "endDate": "2026-08",
       "summary": "",
-      "highlights": ["Pneumatic system design"]
+      "highlights": [
+        "Affiliated with the Lab for Medical Robotics, Embodied AI, Navigation in vivo, Intelligent Medical Mechatronics (REN Lab)",
+        "Designed pneumatic systems and tactile sensing modules for the palpation project",
+        "Developed learning-based hierarchical tracheal anatomy understanding from sparse surgical demonstration annotations for ultrasound Robots"
+      ]
     },
     {
       "name": "The Hong Kong Polytechnic University (AIRO Lab)",
