@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 
-cv_pdf: CV_Athena_Hiu_Ching_CHUENG_GitHub_202608.pdf # you can also use external links here
+cv_pdf: CV_Athena_Hiu_Ching_CHUENG_GitHub_20260901.pdf # you can also use external links here
 
 <!--description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button. -->
 toc:
