@@ -20,7 +20,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The robot participated in the "Planet Exploration Competition".
 </div>
 
 <div class="row">
@@ -35,5 +35,5 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: The robot participated in the "Robot Soccer Competition"; Center: The robot participated in the "Hand Generator Robot Ladder Climbing Competition"; Right: The robot participated in the "Hand Generator Robot Horizontal Bar Climbing Competition".
 </div>
