@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collection of Water-based Robots
-description: Coming soon.
+description: Works for the International/Hong Kong Robotic Olympaid.
 img: assets/img/project_img/mechanical/ocean_ro/wired_robot_fish.JPG
 importance: 1
 category: Mechanical

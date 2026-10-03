@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collection of Land-based Robots
-description: Works for the International/Hong Kong Robotic Olympaid
+description: Works for the International/Hong Kong Robotic Olympaid.
 img: assets/img/project_img/mechanical/land_ro/planet_exploration_overview.JPG
 importance: 3
 category: Mechanical
