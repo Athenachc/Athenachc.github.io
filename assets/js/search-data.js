@@ -95,6 +95,11 @@ ninja.data = [{
           description: "Coming soon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/climb_robo/";
+            },},{id: "projects-disturbance-observer-based-nmpc",
+          title: 'Disturbance Observer-Based NMPC',
+          description: "Aerial Grasping with Soft Aerial Vehicle Using Disturbance Observer-Based Model Predictive Control.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dompc/";
             },},{id: "projects-mini-talon",
           title: 'Mini Talon',
           description: "Coming soon.",
