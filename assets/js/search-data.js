@@ -125,6 +125,11 @@ ninja.data = [{
           description: "Coming soon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/striver/";
+            },},{id: "projects-tracheal-anatomy-understanding",
+          title: 'Tracheal Anatomy Understanding',
+          description: "Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tracheal_ultrasound/";
             },},{id: "projects-grasping-with-ur5",
           title: 'Grasping with UR5',
           description: "A vision-based robotic system leveraging deep learning for automated pick-and-place.",
