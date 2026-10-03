@@ -92,7 +92,7 @@ ninja.data = [{
               window.location.href = "/projects/cdgrobo_servo/";
             },},{id: "projects-climbing-robot",
           title: 'Climbing Robot',
-          description: "Coming soon.",
+          description: "A soft pneumatic climbing robot for pipe inspection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/climb_robo/";
             },},{id: "projects-disturbance-observer-based-nmpc",
