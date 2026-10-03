@@ -112,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/sav/";
             },},{id: "projects-grasping-with-ur5",
           title: 'Grasping with UR5',
-          description: "Coming soon.",
+          description: "A vision-based robotic system leveraging deep learning for automated pick-and-place.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ur5/";
             },},{
