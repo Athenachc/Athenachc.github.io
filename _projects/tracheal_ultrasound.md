@@ -1,0 +1,10 @@
+---
+layout: page
+title: Tracheal Anatomy Understanding
+description: Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots.
+img: assets/img/project_img/cv/tracheal_ultra/2026ICCBS.png
+importance: 3
+category: Computer Vision
+---
+
+Please visit our [project website](https://athenachc.github.io/Learning-basedHierarchicalTrachealAnatomyUnderstanding/).
