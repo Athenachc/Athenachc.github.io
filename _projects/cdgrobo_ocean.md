@@ -5,7 +5,6 @@ description: Works for the International/Hong Kong Robotic Olympaid.
 img: assets/img/project_img/mechanical/ocean_ro/wired_robot_fish.JPG
 importance: 3
 category: Mechanical
-related_publications: true
 ---
 
 

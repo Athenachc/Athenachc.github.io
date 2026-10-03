@@ -5,7 +5,6 @@ description: Works for the International/Hong Kong Robotic Olympaid.
 img: assets/img/project_img/mechanical/land_ro/planet_exploration_overview.JPG
 importance: 3
 category: Mechanical
-related_publications: true
 ---
 
 <div class="row">

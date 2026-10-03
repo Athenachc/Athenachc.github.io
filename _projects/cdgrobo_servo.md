@@ -5,7 +5,6 @@ description: Works for the International/Hong Kong Robotic Olympaid.
 img: assets/img/project_img/mechatronics/servo_ro/humanoid.JPG
 importance: 3
 category: Mechatronics
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
