@@ -16,6 +16,6 @@ category: Pneumatics
     </div>
 </div>
 <div class="caption">
-    Demo
+    Left: Demonstration of the robot climbing upward and downward on the outside of a pipe; Right: Overview of the robot hardware.
 </div>
 
