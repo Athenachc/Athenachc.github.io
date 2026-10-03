@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/projects/cdgrobo_ocean/";
             },},{id: "projects-collection-of-robots-with-servo-motors",
           title: 'Collection of Robots with Servo Motors',
-          description: "Coming soon.",
+          description: "Works for the International/Hong Kong Robotic Olympaid",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_servo/";
             },},{id: "projects-climbing-robot",
