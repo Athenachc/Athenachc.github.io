@@ -77,17 +77,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-collection-of-land-based-robots",
           title: 'Collection of Land-based Robots',
-          description: "Works for the International/Hong Kong Robotic Olympaid",
+          description: "Works for the International/Hong Kong Robotic Olympaid.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_land/";
             },},{id: "projects-collection-of-water-based-robots",
           title: 'Collection of Water-based Robots',
-          description: "Coming soon.",
+          description: "Works for the International/Hong Kong Robotic Olympaid.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_ocean/";
             },},{id: "projects-collection-of-robots-with-servo-motors",
           title: 'Collection of Robots with Servo Motors',
-          description: "Works for the International/Hong Kong Robotic Olympaid",
+          description: "Works for the International/Hong Kong Robotic Olympaid.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_servo/";
             },},{id: "projects-climbing-robot",
