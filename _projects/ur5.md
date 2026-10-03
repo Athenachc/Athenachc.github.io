@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grasping with UR5
-description: Coming soon.
+description: A vision-based robotic system leveraging deep learning for automated pick-and-place.
 img: assets/img/project_img/cv/ur5/ur5.jpeg
 importance: 3
 category: Computer Vision
