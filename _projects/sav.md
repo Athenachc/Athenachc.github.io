@@ -2,7 +2,7 @@
 layout: page
 title: Soft Aerial Vehicle
 description: A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing.
-img: assets/img/f330_sav.png
+img: assets/img/project_img/aerial_grasping/f330_sav.png
 importance: 3
 category: Aerial Grasping
 ---
