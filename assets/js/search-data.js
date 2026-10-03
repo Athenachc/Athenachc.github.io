@@ -75,7 +75,12 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-share-our-work-bio-inspired-self-oscillating-needle-transducer-with-unified-in-keyhole-sensing-and-actuation-capability-has-been-accepted-by-the-ieee-iros-2026",
           title: 'Thrilled to share our work, “Bio-inspired Self-Oscillating Needle Transducer with Unified In-Keyhole Sensing...',
           description: "",
-          section: "News",},{id: "projects-collection-of-land-based-robots",
+          section: "News",},{id: "projects-skywalker-x8",
+          title: 'Skywalker X8',
+          description: "Coming soon.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Skywalker/";
+            },},{id: "projects-collection-of-land-based-robots",
           title: 'Collection of Land-based Robots',
           description: "Works for the International/Hong Kong Robotic Olympaid.",
           section: "Projects",handler: () => {
@@ -105,11 +110,21 @@ ninja.data = [{
           description: "Coming soon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mini_talon/";
+            },},{id: "projects-nano-talon",
+          title: 'Nano Talon',
+          description: "Coming soon.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nano_talon/";
             },},{id: "projects-soft-aerial-vehicle",
           title: 'Soft Aerial Vehicle',
           description: "A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sav/";
+            },},{id: "projects-striver",
+          title: 'Striver',
+          description: "Coming soon.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/striver/";
             },},{id: "projects-grasping-with-ur5",
           title: 'Grasping with UR5',
           description: "A vision-based robotic system leveraging deep learning for automated pick-and-place.",
