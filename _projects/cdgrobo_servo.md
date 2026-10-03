@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Collection of Robots with Servo Motors
-description: Coming soon.
-img: assets/img/3.jpg
+description: Works for the International/Hong Kong Robotic Olympaid
+img: assets/img/project_img/mechatronics/servo_ro/humanoid.JPG
 importance: 2
 category: Mechatronics
 giscus_comments: true
