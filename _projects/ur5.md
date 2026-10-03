@@ -16,7 +16,7 @@ category: Computer Vision
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Grasping toy pliers; Right: Grasping a toy electric drill.
 </div>
 
 
