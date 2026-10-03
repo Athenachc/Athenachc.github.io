@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Climbing Robot
-description: Coming soon.
+description: A soft pneumatic climbing robot for pipe inspection.
 img: assets/img/project_img/pneumatics/climb_robot/overview.jpeg
 importance: 3
 category: Pneumatics
