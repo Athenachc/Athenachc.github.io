@@ -8,3 +8,7 @@ category: Aerial Grasping
 ---
 
 Please visit our [project website](https://athenachc.github.io/SAV-DOMPC/).
+
+[Aerial Grasping with DOMPC](https://youtu.be/kD9XIhZy_TA)
+
+[Payload Test with DOMPC](https://youtu.be/O1u3tZNKE7Y)
