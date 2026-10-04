@@ -5,8 +5,9 @@ description: Closed-loop pneumatic control and pressure regulation.
 img: assets/img/project_img/pneumatics/pneumatic_system/pneumatic_cover.JPG
 importance: 1
 category: Pneumatics
+related_publications: true
 ---
-
+This pneumatic system was contributed in {% cite Zhang2026bilateral %}.
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_img/pneumatics/pneumatic_system/pneumatic_cover.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
