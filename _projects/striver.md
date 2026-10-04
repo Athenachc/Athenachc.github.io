@@ -7,6 +7,8 @@ importance: 3
 category: VTOL
 ---
 
+[Striver VTOL flight test](https://youtu.be/yGSF8Wy-fCY?si=lKuhOJngAQOpB1GZ)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_img/vtol/striver/striver_vtol.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
