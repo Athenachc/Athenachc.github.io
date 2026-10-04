@@ -7,7 +7,7 @@ importance: 3
 category: VTOL
 ---
 
-[Striver VTOL flight test](https://youtu.be/yGSF8Wy-fCY?si=lKuhOJngAQOpB1GZ)
+[Striver VTOL flight test](https://youtu.be/yGSF8Wy-fCY)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
