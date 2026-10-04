@@ -77,7 +77,7 @@ category: VTOL
         {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/wing_top.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/wing_iso.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/wing_iso.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -141,10 +141,10 @@ category: VTOL
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/new_wing.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/new_wing2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
