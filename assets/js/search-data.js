@@ -115,6 +115,11 @@ ninja.data = [{
           description: "My tiny VTOL.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nano_talon/";
+            },},{id: "projects-pneumatic-system",
+          title: 'Pneumatic System',
+          description: "Closed-loop pneumatic control and pressure regulation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pneumatic_system/";
             },},{id: "projects-soft-aerial-vehicle",
           title: 'Soft Aerial Vehicle',
           description: "A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Landing.",
