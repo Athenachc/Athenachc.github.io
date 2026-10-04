@@ -3,7 +3,7 @@ layout: page
 title: Nano Talon
 description: Coming soon.
 img:
-importance: 3
+importance: 4
 category: VTOL
 ---
 

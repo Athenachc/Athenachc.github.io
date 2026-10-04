@@ -2,8 +2,8 @@
 layout: page
 title: Skywalker X8
 description: Coming soon.
-img:
-importance: 3
+img: assets/img/project_img/vtol/skywalker_x8/skywalker_cover.jpeg
+importance: 2
 category: VTOL
 ---
 
