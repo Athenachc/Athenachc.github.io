@@ -122,7 +122,7 @@ ninja.data = [{
               window.location.href = "/projects/sav/";
             },},{id: "projects-striver",
           title: 'Striver',
-          description: "Coming soon.",
+          description: "VTOL project with labmates.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/striver/";
             },},{id: "projects-tracheal-anatomy-understanding",
