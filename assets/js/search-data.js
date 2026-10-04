@@ -107,7 +107,7 @@ ninja.data = [{
               window.location.href = "/projects/dompc/";
             },},{id: "projects-mini-talon",
           title: 'Mini Talon',
-          description: "Coming soon.",
+          description: "My 1st VTOL.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mini_talon/";
             },},{id: "projects-nano-talon",
