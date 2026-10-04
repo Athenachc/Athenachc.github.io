@@ -77,7 +77,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-skywalker-x8",
           title: 'Skywalker X8',
-          description: "Coming soon.",
+          description: "My UG FYP project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Skywalker/";
             },},{id: "projects-collection-of-land-based-robots",
@@ -112,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/mini_talon/";
             },},{id: "projects-nano-talon",
           title: 'Nano Talon',
-          description: "Coming soon.",
+          description: "My tiny VTOL.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nano_talon/";
             },},{id: "projects-soft-aerial-vehicle",
