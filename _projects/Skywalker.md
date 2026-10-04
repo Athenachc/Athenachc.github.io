@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skywalker X8
-description: Coming soon.
+description: My UG FYP project.
 img: assets/img/project_img/vtol/skywalker_x8/skywalker_cover.jpeg
 importance: 2
 category: VTOL

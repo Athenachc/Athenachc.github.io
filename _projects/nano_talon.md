@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Nano Talon
-description: Coming soon.
-img:
+description: My tiny VTOL.
+img: assets/img/project_img/vtol/nano_talon/nano_talon_cover.jpeg
 importance: 4
 category: VTOL
 ---
