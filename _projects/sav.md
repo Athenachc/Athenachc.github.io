@@ -8,7 +8,7 @@ category: Aerial Grasping
 related_publications: true
 ---
 
-Please visit our [project website](https://athenachc.github.io/SAV/) {% cite 10521918 %}.
+Please visit our [project website](https://athenachc.github.io/SAV/) {% cite cheung2024modular %}.
 
 [Static Grasping Test](https://youtu.be/v6xmPBTzEkY)
 
