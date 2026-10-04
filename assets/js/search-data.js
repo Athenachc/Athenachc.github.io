@@ -95,8 +95,8 @@ ninja.data = [{
           description: "Works for the International/Hong Kong Robotic Olympaid.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdgrobo_servo/";
-            },},{id: "projects-climbing-robot",
-          title: 'Climbing Robot',
+            },},{id: "projects-pipe-climbing-robot",
+          title: 'Pipe Climbing Robot',
           description: "A soft pneumatic climbing robot for pipe inspection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/climb_robo/";
