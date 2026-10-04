@@ -5,6 +5,5 @@ description: Learning-based Hierarchical Tracheal Anatomy Understanding from Spa
 img: assets/img/project_img/cv/tracheal_ultra/2026ICCBS.png
 importance: 3
 category: Computer Vision
+redirect: https://athenachc.github.io/Learning-basedHierarchicalTrachealAnatomyUnderstanding/
 ---
-
-Please visit our [project website](https://athenachc.github.io/Learning-basedHierarchicalTrachealAnatomyUnderstanding/).
