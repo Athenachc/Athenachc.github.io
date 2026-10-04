@@ -3,7 +3,7 @@ layout: page
 title: Disturbance Observer-Based NMPC
 description: Aerial Grasping with Soft Aerial Vehicle Using Disturbance Observer-Based Model Predictive Control.
 img: assets/img/project_img/aerial_grasping/pokemon.png
-importance: 3
+importance: 1
 category: Aerial Grasping
 related_publications: true
 ---
