@@ -8,7 +8,7 @@ category: Aerial Grasping
 related_publications: true
 ---
 
-Please visit our [project website](https://athenachc.github.io/SAV-DOMPC/){% cite cheung2024aerial %}.
+Please visit our [project website](https://athenachc.github.io/SAV-DOMPC/) {% cite cheung2024aerial %}.
 
 [Aerial Grasping with DOMPC](https://youtu.be/kD9XIhZy_TA)
 
