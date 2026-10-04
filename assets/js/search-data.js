@@ -75,7 +75,12 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-share-our-work-bio-inspired-self-oscillating-needle-transducer-with-unified-in-keyhole-sensing-and-actuation-capability-has-been-accepted-by-the-ieee-iros-2026",
           title: 'Thrilled to share our work, “Bio-inspired Self-Oscillating Needle Transducer with Unified In-Keyhole Sensing...',
           description: "",
-          section: "News",},{id: "projects-skywalker-x8",
+          section: "News",},{id: "projects-palpaid",
+          title: 'PalpAid',
+          description: "Multimodal Pneumatic Tactile Sensor for Tissue Palpation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PalpAid/";
+            },},{id: "projects-skywalker-x8",
           title: 'Skywalker X8',
           description: "My UG FYP project.",
           section: "Projects",handler: () => {
