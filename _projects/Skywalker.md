@@ -17,10 +17,10 @@ category: VTOL
 [Vacuum infusion for fabricating a new composited wing of Skywalker X8 VTOL](https://youtu.be/1HfRb3bHXTc)
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/skywalker_vtol.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_img/vtol/skywalker_x8/skywalker_vtol_close.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
