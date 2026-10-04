@@ -8,6 +8,8 @@ category: VTOL
 ---
 ### Project title: Development of an Aerial Air Quality Monitoring Platform Based on Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV)
 
+[Final Report](https://1drv.ms/b/c/f9ffb3e3011f008a/IQA9Nj159bZpQ7WK0RmqrGnFAXUTNClF7j1P34L95XEvS0A?e=cQU4w6)
+
 [Skywalker X8 VTOL indoor hovering test](https://youtu.be/cd0E_a2m0yM)
 
 [Skywalker X8 VTOL flgiht test (without payload)](https://youtu.be/xZHm2rkBqb8)
