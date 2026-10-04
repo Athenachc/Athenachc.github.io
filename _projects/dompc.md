@@ -7,8 +7,11 @@ importance: 1
 category: Aerial Grasping
 related_publications: true
 ---
+### Project Website
 
 Please visit our [project website](https://athenachc.github.io/SAV-DOMPC/) {% cite cheung2024aerial %}.
+
+### Videos
 
 [Aerial Grasping with DOMPC](https://youtu.be/kD9XIhZy_TA)
 
