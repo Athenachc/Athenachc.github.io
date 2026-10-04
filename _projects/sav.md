@@ -5,6 +5,7 @@ description: A Modular Pneumatic Soft Gripper Design for Aerial Grasping and Lan
 img: assets/img/project_img/aerial_grasping/f330_sav.png
 importance: 3
 category: Aerial Grasping
+related_publications: true
 ---
 
 Please visit our [project website](https://athenachc.github.io/SAV/).
