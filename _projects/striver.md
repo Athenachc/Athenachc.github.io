@@ -20,7 +20,7 @@ category: VTOL
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_img/vtol/striver/striver_test.jpeg" title="Striver VTOL field test" class="img-fluid rounded z-depth-1" style="transform: rotate(90deg);" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_img/vtol/striver/striver_test.jpeg" title="Striver VTOL field test" class="img-fluid rounded z-depth-1" style="transform: rotate(180deg);" %}
     </div>
 </div>
 <div class="caption">
